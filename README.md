@@ -6,11 +6,13 @@
 
 ###
 
-<p>✅ Weather App: <a href="https://github.com/yehiaaly/build-a-weather-app" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/build-a-weather-app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>✅ Weather App - freeCodeCamp Final Project: <a href="https://github.com/yehiaaly/build-a-weather-app" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/build-a-weather-app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
-<p>✅ Portfolio Website: <a href="https://github.com/yehiaaly/meta-advanced-react-final-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://react-portfolio-project-01.netlify.app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>✅ Weather App with Openweather API: <a href="https://github.com/yehiaaly/weather-app-tutorial" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/weather-app-tutorial/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
-<p>✅ Personal Webpage: <a href="https://github.com/yehiaaly/personal--portfolio-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://portfolio-wepage.netlify.app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>✅ Portfolio Web Application – Meta React Final Project: <a href="https://github.com/yehiaaly/meta-advanced-react-final-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://react-portfolio-project-01.netlify.app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+
+<p>✅ Personal Webpage - freeCodeCamp CSS Final Project: <a href="https://github.com/yehiaaly/personal--portfolio-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://portfolio-wepage.netlify.app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
 <p>✅ Landing Page: <a href="https://github.com/yehiaaly/product-landing-page-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://trombone-landing-page.netlify.app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
