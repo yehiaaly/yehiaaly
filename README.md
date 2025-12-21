@@ -8,17 +8,15 @@
 
 <p>✅ Weather App - freeCodeCamp Final Project: <a href="https://github.com/yehiaaly/build-a-weather-app" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/build-a-weather-app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
-<p>✅ Weather App with Openweather API: <a href="https://github.com/yehiaaly/weather-app-tutorial" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/weather-app-tutorial/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>✅ Weather App with Openweather API: <a href="https://weather-app-36l.pages.dev/" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/weather-app-tutorial/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
-<p>✅ Portfolio Web Application – Meta React Final Project: <a href="https://github.com/yehiaaly/meta-advanced-react-final-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://react-portfolio-project-01.netlify.app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>✅ Meta React Final Project - Portfolio Website: <a href="https://github.com/yehiaaly/meta-advanced-react-final-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://meta-advanced-react-final-project.pages.dev/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
-<p>✅ Personal Webpage - freeCodeCamp CSS Final Project: <a href="https://github.com/yehiaaly/personal--portfolio-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://portfolio-wepage.netlify.app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>✅ Personal Webpage - freeCodeCamp CSS Final Project: <a href="https://github.com/yehiaaly/personal--portfolio-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/personal--portfolio-project/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
-<p>✅ Landing Page: <a href="https://github.com/yehiaaly/product-landing-page-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://trombone-landing-page.netlify.app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>✅ Product Landing Page: <a href="https://github.com/yehiaaly/product-landing-page-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/product-landing-page-project/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
-<p>✅ Drum Machine: <a href="https://github.com/yehiaaly/build-a-drum-machine" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://drum-machine-fccproject.netlify.app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
-
-<p>✅ Palindrome Checker: <a href="https://github.com/yehiaaly/build-a-palindrome-checker" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://palindrome-checker-fccproject.netlify.app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>✅ Palindrome Checker: <a href="https://github.com/yehiaaly/build-a-palindrome-checker" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/build-a-palindrome-checker/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
 ###
 
