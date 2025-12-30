@@ -10,9 +10,9 @@
 
 <p>✅ Weather App with Openweather API: <a href="https://weather-app-36l.pages.dev/" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/weather-app-tutorial/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
-<p>✅ Meta React Final Project - Portfolio Website: <a href="https://github.com/yehiaaly/meta-advanced-react-final-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://meta-advanced-react-final-project.pages.dev/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>✅ GitHub Profile Finder: <a href="https://github.com/yehiaaly/github-profile-stats-search" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://github-profile-stats-search.pages.dev/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
-<p>✅ Personal Webpage - freeCodeCamp CSS Final Project: <a href="https://github.com/yehiaaly/personal--portfolio-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/personal--portfolio-project/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>✅ Meta React Final Project - Portfolio Website: <a href="https://github.com/yehiaaly/meta-advanced-react-final-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://meta-advanced-react-final-project.pages.dev/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
 <p>✅ Product Landing Page: <a href="https://github.com/yehiaaly/product-landing-page-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/product-landing-page-project/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
 
