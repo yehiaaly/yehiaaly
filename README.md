@@ -75,7 +75,7 @@
   <em>A deep dive into asynchronous JS and DOM manipulation.</em> <br />
   <code>Async/Await</code> <code>Fetch API</code> <code>DOM Manipulation</code> <code>Flexbox</code> <code>OpenWeatherMap</code> <br />
   <br />
-  <a href="https://github.com/yehiaaly/weather-app-tutorial"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+  <a href="https://github.com/yehiaaly/weather-app"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
   <a href="https://weather-app-36l.pages.dev/"><img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
 </p>
 
