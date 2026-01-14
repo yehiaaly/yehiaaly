@@ -1,79 +1,97 @@
-<h1 align="left">Hi 👋, I am Yehia Aly | Frontend Developer</h1>
+<h1 align="center">Hi there, I'm Yehia Aly 👋</h1>
+<h3 align="center">Frontend Developer | React Specialist | UI/UX Enthusiast</h3>
 
-###
+<p align="center">
+  Based in Egypt, I specialize in building responsive, accessible, and performant web applications. <br>
+  Focused on the <strong>React ecosystem</strong> and clean component architecture.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yzm2000/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.freecodecamp.org/yehia_aly" target="_blank">
+    <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="fcc" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="left">🛠️ Tech Stack</h2>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+</div>
+
+<br>
 
 <h2 align="left">💼 Featured Projects</h2>
 
-###
+<p>
+  <strong>Meta Front-End Capstone — Little Lemon Restaurant</strong> <br />
+  <em>A modern table reservation system built with the latest React standards.</em> <br />
+  <code>React 19</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>DaisyUI</code> <code>React Router</code> <code>Vitest</code> <br />
+  <br />
+  <a href="https://github.com/yehiaaly/meta-frontend-capstone-project"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+  <a href="https://meta-frontend-capstone-project.pages.dev/"><img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+</p>
 
-<p>✅ Weather App - freeCodeCamp Final Project: <a href="https://github.com/yehiaaly/build-a-weather-app" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/build-a-weather-app/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>
+  <strong>Meta Advanced React — Portfolio Website</strong> <br />
+  <em>Professional portfolio showcasing advanced form management and animations.</em> <br />
+  <code>React 18</code> <code>Chakra UI</code> <code>Formik & Yup</code> <code>Framer Motion</code> <code>React Testing Library</code> <br />
+  <br />
+  <a href="https://github.com/yehiaaly/meta-advanced-react-final-project"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+  <a href="https://meta-advanced-react-final-project.pages.dev/"><img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+</p>
 
-<p>✅ Weather App with Openweather API: <a href="https://weather-app-36l.pages.dev/" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/weather-app-tutorial/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>
+  <strong>GitHub Profile Finder</strong> <br />
+  <em>A high-performance search tool using modern UI libraries.</em> <br />
+  <code>React 19</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind</code> <code>Shadcn UI</code> <code>Lucide React</code> <br />
+  <br />
+  <a href="https://github.com/yehiaaly/github-profile-stats-search"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+  <a href="https://github-profile-stats-search.pages.dev/"><img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+</p>
 
-<p>✅ GitHub Profile Finder: <a href="https://github.com/yehiaaly/github-profile-stats-search" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://github-profile-stats-search.pages.dev/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>
+  <strong>freeCodeCamp Final — Weather App</strong> <br />
+  <em>Certification project for JavaScript Algorithms and Data Structures.</em> <br />
+  <code>HTML5</code> <code>CSS3</code> <code>JavaScript (ES6+)</code> <code>FCC Weather Proxy API</code> <br />
+  <br />
+  <a href="https://github.com/yehiaaly/build-a-weather-app"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+  <a href="https://yehiaaly.github.io/build-a-weather-app/"><img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+</p>
 
-<p>✅ Meta React Final Project - Portfolio Website: <a href="https://github.com/yehiaaly/meta-advanced-react-final-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://meta-advanced-react-final-project.pages.dev/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
+<p>
+  <strong>Weather App — OpenWeather API</strong> <br />
+  <em>A deep dive into asynchronous JS and DOM manipulation.</em> <br />
+  <code>Async/Await</code> <code>Fetch API</code> <code>DOM Manipulation</code> <code>Flexbox</code> <code>OpenWeatherMap</code> <br />
+  <br />
+  <a href="https://github.com/yehiaaly/weather-app-tutorial"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+  <a href="https://weather-app-36l.pages.dev/"><img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+</p>
 
-<p>✅ Product Landing Page: <a href="https://github.com/yehiaaly/product-landing-page-project" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/product-landing-page-project/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
-
-<p>✅ Palindrome Checker: <a href="https://github.com/yehiaaly/build-a-palindrome-checker" target="_blank" rel="noopener noreferrer">Repo ↗️</a>, <a href="https://yehiaaly.github.io/build-a-palindrome-checker/" target="_blank" rel="noopener noreferrer">View Project ↗️</a></p>
-
-###
+<br>
 
 <h2 align="left">📜 Certifications</h2>
 
-###
+<ul>
+  <li>🎓 <strong>Meta Front-End Developer Specialization</strong> — <a href="https://coursera.org/share/fb128f1eb1d0d89c53cde85b820abd71">Verify Credential ↗️</a></li>
+  <li>🎓 <strong>JavaScript Algorithms & Data Structures</strong> — <a href="https://www.freecodecamp.org/certification/yehia_aly/javascript-v9">Verify Credential ↗️</a></li>
+  <li>🎓 <strong>Responsive Web Design</strong> — <a href="https://www.freecodecamp.org/certification/yehia_aly/responsive-web-design-v9">Verify Credential ↗️</a></li>
+</ul>
 
-<p>🎓 Responsive Web Design: <a href="https://www.freecodecamp.org/certification/yehia_aly/responsive-web-design-v9" target="_blank" rel="noopener noreferrer">freeCodeCamp ↗️</a></p>
-
-<p>🎓 JavaScript Certification: <a href="https://www.freecodecamp.org/certification/yehia_aly/javascript-v9" target="_blank" rel="noopener noreferrer">freeCodeCamp ↗️</a></p>
-
-<p>🎓 Meta React: <a href="https://coursera.org/share/fb128f1eb1d0d89c53cde85b820abd71" target="_blank" rel="noopener noreferrer">Coursera ↗️</a></p>
-
-###
-
-<h2 align="left">Links</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/yzm2000/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.freecodecamp.org/yehia_aly" target="_blank">
-    <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.svg" width="52" height="40" alt="freeCodeCamp logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Tech Stack</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-</div>
-
-###
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yehiaaly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yehiaaly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yehiaaly&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yehiaaly&layout=compact&theme=dracula&langs_count=5&hide_border=true" height="150" alt="languages graph" />
 </div>
-
-###
