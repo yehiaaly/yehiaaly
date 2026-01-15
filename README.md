@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Yehia Aly 👋</h1>
-<h3 align="center">Frontend Developer | React Specialist | UI/UX Enthusiast</h3>
+<h3 align="center">Frontend Developer | React Specialist</h3>
 
 <p align="center">
   Based in Egypt, I specialize in building responsive, accessible, and performant web applications. <br>
