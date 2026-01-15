@@ -83,28 +83,45 @@
 
 <h2 align="left">📜 Certifications</h2>
 
-<p>
-  <strong>🏆 Meta Front-End Developer Professional Certificate</strong> <br />
-  <em>Comprehensive 9-course professional training.</em> <br />
-  <br />
-  <a href="https://coursera.org/share/1cb4c63e04c593629b84d08955b6e77b">
-    <img src="https://img.shields.io/badge/Verify_Professional_Cert-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera Verify">
-  </a>
-</p>
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="160" valign="top" style="border: none;">
+      <a href="https://coursera.org/share/1cb4c63e04c593629b84d08955b6e77b" target="_blank">
+        <img src="https://images.credly.com/size/340x340/bk/badges/8fda059f-c5ff-4063-8c60-af29eac5be4a/meta-front-end-developer-professional-certificate.png" alt="Meta Badge" width="150" />
+      </a>
+    </td>
+    <td valign="top" style="border: none;">
+      <h3>🏆 Meta Front-End Developer Professional Certificate</h3>
+      <p>
+        <em>Issued by Meta • 9-Course Specialization</em> <br/>
+        Demonstrates advanced proficiency in React, UX/UI principles, and Version Control.
+        <br/><br/>
+        &nbsp;&nbsp; ↳ <em>Includes: <strong>Meta React Specialization</strong></em>
+        <br/><br/>
+        <a href="https://coursera.org/share/1cb4c63e04c593629b84d08955b6e77b" target="_blank">
+          <img src="https://img.shields.io/badge/Verify_on_Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Verify">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <p>
   <strong>Foundational Certifications:</strong>
 </p>
 <ul>
   <li>
-    🎓 <strong>JavaScript Algorithms & Data Structures</strong> (freeCodeCamp) <br/>
-    <a href="https://www.freecodecamp.org/certification/yehia_aly/javascript-v9">Verify Credential ↗️</a>
+    🎓 <strong>JavaScript Algorithms & Data Structures</strong> (freeCodeCamp) — 
+    <a href="https://www.freecodecamp.org/certification/yehia_aly/javascript-v9">Verify ↗️</a>
   </li>
   <li>
-    🎓 <strong>Responsive Web Design</strong> (freeCodeCamp) <br/>
-    <a href="https://www.freecodecamp.org/certification/yehia_aly/responsive-web-design-v9">Verify Credential ↗️</a>
+    🎓 <strong>Responsive Web Design</strong> (freeCodeCamp) — 
+    <a href="https://www.freecodecamp.org/certification/yehia_aly/responsive-web-design-v9">Verify ↗️</a>
   </li>
 </ul>
+
 
 <br>
 
