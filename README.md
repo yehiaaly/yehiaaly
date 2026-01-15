@@ -86,12 +86,15 @@
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td width="160" valign="top" style="border: none;">
-      <a href="https://coursera.org/share/1cb4c63e04c593629b84d08955b6e77b" target="_blank">
-        <img src="https://images.credly.com/size/340x340/bk/badges/8fda059f-c5ff-4063-8c60-af29eac5be4a/meta-front-end-developer-professional-certificate.png" alt="Meta Badge" width="150" />
+      <a href="https://www.credly.com/badges/8fda059f-c5ff-4063-8c60-af29eac5be4a/public_url" target="_blank">
+        <img src="https://github.com/yehiaaly/yehiaaly/blob/main/meta-front-end-developer-professional-certificate-v.png?raw=true" alt="Meta Badge" width="150" />
       </a>
     </td>
+   <div></div>
     <td valign="top" style="border: none;">
-      <h3>🏆 Meta Front-End Developer Professional Certificate</h3>
+      <div style="font-size: 18px; font-weight: bold; margin-bottom: 10px; color: #000000;">
+        🏆 Meta Front-End Developer Professional Certificate
+      </div>
       <p>
         <em>Issued by Meta • 9-Course Specialization</em> <br/>
         Demonstrates advanced proficiency in React, UX/UI principles, and Version Control.
@@ -121,7 +124,6 @@
     <a href="https://www.freecodecamp.org/certification/yehia_aly/responsive-web-design-v9">Verify ↗️</a>
   </li>
 </ul>
-
 
 <br>
 
