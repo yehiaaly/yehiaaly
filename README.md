@@ -83,10 +83,50 @@
 
 <h2 align="left">📜 Certifications</h2>
 
+<p>
+  <strong>🏆 Meta Front-End Developer Professional Certificate</strong> <br />
+  <em>Comprehensive 9-course professional training.</em> <br />
+  <br />
+  <a href="https://coursera.org/share/1cb4c63e04c593629b84d08955b6e77b">
+    <img src="https://img.shields.io/badge/Verify_Professional_Cert-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera Verify">
+  </a>
+</p>
+
+<p>
+  <strong>Foundational Certifications:</strong>
+</p>
 <ul>
-  <li>🎓 <strong>Meta Front-End Developer Specialization</strong> — <a href="https://coursera.org/share/fb128f1eb1d0d89c53cde85b820abd71">Verify Credential ↗️</a></li>
-  <li>🎓 <strong>JavaScript Algorithms & Data Structures</strong> — <a href="https://www.freecodecamp.org/certification/yehia_aly/javascript-v9">Verify Credential ↗️</a></li>
-  <li>🎓 <strong>Responsive Web Design</strong> — <a href="https://www.freecodecamp.org/certification/yehia_aly/responsive-web-design-v9">Verify Credential ↗️</a></li>
+  <li>
+    🎓 <strong>JavaScript Algorithms & Data Structures</strong> (freeCodeCamp) <br/>
+    <a href="https://www.freecodecamp.org/certification/yehia_aly/javascript-v9">Verify Credential ↗️</a>
+  </li>
+  <li>
+    🎓 <strong>Responsive Web Design</strong> (freeCodeCamp) <br/>
+    <a href="https://www.freecodecamp.org/certification/yehia_aly/responsive-web-design-v9">Verify Credential ↗️</a>
+  </li>
+</ul>
+
+<br>
+
+<h2 align="left">🎓 Education</h2>
+
+<div align="left">
+  <a href="https://www.metu.edu.tr/" target="_blank">
+    <img src="https://img.shields.io/badge/Middle_East_Technical_University-C8102E?style=for-the-badge&logo=middle-east-technical-university&logoColor=white" alt="METU Logo" />
+  </a>
+</div>
+
+<p>
+  <strong>B.Sc. Mechanical Engineering</strong> <br />
+</p>
+
+<p>
+  <em>While my degree is in Engineering, I specialized in the computational side of the field, building a strong foundation for software development through:</em>
+</p>
+
+<ul>
+  <li>🧮 <strong>Advanced Computational Analysis:</strong> Developed algorithms for simulation and numerical analysis using <strong>MATLAB</strong>.</li>
+  <li>📉 <strong>High-Level Mathematics:</strong> Completed graduate-level coursework in <strong>Complex Analysis</strong> and Engineering Mathematics.</li>
 </ul>
 
 <br>
