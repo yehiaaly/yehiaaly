@@ -35,6 +35,15 @@
 <h2 align="left">💼 Featured Projects</h2>
 
 <p>
+  <strong>Team Bookstore</strong> <br />
+  <em>A modern, curated digital library bookstore built with Next.js.</em> <br />
+  <code>React 19</code> <code>Next.js 15</code> <code>Tailwind CSS</code> <code>Framer Motion</code> <code>Shadcn UI</code> <br />
+  <br />
+  <a href="https://github.com/yehiaaly/team-bookstore"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+  <a href="https://team-bookstore.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+</p>
+
+<p>
   <strong>Meta Front-End Capstone — Little Lemon Restaurant</strong> <br />
   <em>A modern table reservation system built with the latest React standards.</em> <br />
   <code>React 19</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>DaisyUI</code> <code>React Router</code> <code>Vitest</code> <br />
