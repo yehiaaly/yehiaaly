@@ -40,7 +40,7 @@
   <code>React 19</code> <code>Next.js 15</code> <code>Tailwind CSS</code> <code>Framer Motion</code> <code>Shadcn UI</code> <br />
   <br />
   <a href="https://github.com/yehiaaly/team-bookstore"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-  <a href="https://team-bookstore.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+  <a href="https://8272f0a9.team-bookstore.pages.dev/library"><img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
 </p>
 
 <p>
