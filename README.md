@@ -53,12 +53,12 @@
 </p>
 
 <p>
-  <strong>Meta Advanced React — Portfolio Website</strong> <br />
-  <em>Professional portfolio showcasing advanced form management and animations.</em> <br />
-  <code>React 18</code> <code>Chakra UI</code> <code>Formik & Yup</code> <code>Framer Motion</code> <code>React Testing Library</code> <br />
+  <strong>Countries Explorer</strong> <br />
+  <em>A comprehensive application to browse country information using REST Countries API.</em> <br />
+  <code>Next.js 15</code> <code>React 19</code> <code>Tailwind CSS v4</code> <code>Lucide React</code> <br />
   <br />
-  <a href="https://github.com/yehiaaly/meta-advanced-react-final-project"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-  <a href="https://meta-advanced-react-final-project.pages.dev/"><img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+  <a href="https://github.com/yehiaaly/countries-explorer"><img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+  <a href="https://countries-explorer.pages.dev/"><img src="https://img.shields.io/badge/Live_Demo-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
 </p>
 
 <p>
