@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React Specialist</h3>
 
 <p align="center">
-  Based in Egypt, I specialize in building responsive, accessible, and performant web applications. <br>
+I specialize in building responsive, accessible, and performant web applications. <br>
   Focused on the <strong>React ecosystem</strong> and clean component architecture.
 </p>
 
