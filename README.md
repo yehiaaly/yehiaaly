@@ -125,6 +125,10 @@ I specialize in building responsive, accessible, and performant web applications
 </p>
 <ul>
   <li>
+    🎓 <strong>Relational Database</strong> (freeCodeCamp) —
+    <a href="https://www.freecodecamp.org/certification/yehia_aly/relational-databases-v9">Verify ↗️</a>
+  </li>
+  <li>
     🎓 <strong>JavaScript Algorithms & Data Structures</strong> (freeCodeCamp) — 
     <a href="https://www.freecodecamp.org/certification/yehia_aly/javascript-v9">Verify ↗️</a>
   </li>
